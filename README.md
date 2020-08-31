@@ -1,4 +1,4 @@
-# Desafio Contele - React Native
+# Challenge - React Native
 
 Neste desafio o objetivo era replicar este layout mobile: https://www.figma.com/file/0RALYh0k98fnA7CLoiVPYs/Teste-React-Native?node-id=0%3A1
 Utilizando as melhores praticas e utilizando redux ou hooks
