@@ -8,7 +8,7 @@ const statusBarHeight = Platform.OS === 'android' ?
 export const ContainerTop = styled.View`
   padding-top: ${statusBarHeight + 'px'};
   background-color: #DCE4F0;
-  height: 145px
+  height: 165px;
 `;
 
 export const ArrowContainer = styled.TouchableOpacity``;
@@ -24,6 +24,7 @@ export const PriceContainer = styled.View`
   align-self: flex-end;
   margin-right: 22px;
   align-items: center;
+  
 `
 
 export const PriceNumber = styled.Text`
